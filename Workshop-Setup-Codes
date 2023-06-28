@@ -1,3 +1,7 @@
+Workshop prerequisites:
+Azure Portal Subscription, Azure Resource Groups, please follow the Azure document link below for step by step MLStudio setup.
+  https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2
+
 
 Workshop Codes:
 
