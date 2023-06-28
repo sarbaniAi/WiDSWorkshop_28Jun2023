@@ -1,0 +1,10 @@
+
+Workshop Codes:
+
+Below codes and datasets are present in : https://github.com/Azure/azureml-examples/tree/main/sdk/python/responsible-ai
+
+1. responsibleaidashboard-diabetes-regression-model-debugging : Assess disease progression predictions on diabetes data
+https://github.com/Azure/azureml-examples/blob/main/sdk/python/responsible-ai/responsibleaidashboard-diabetes-regression-model-debugging/responsibleaidashboard-diabetes-regression-model-debugging.ipynb
+
+2. responsibleaidashboard-diabetes-decision-making : Plan real-world action using counterfactual example analysis and causal analysis
+https://github.com/Azure/azureml-examples/blob/main/sdk/python/responsible-ai/responsibleaidashboard-diabetes-decision-making/responsibleaidashboard-diabetes-decision-making.ipynb
